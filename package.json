@@ -1,0 +1,32 @@
+{
+  "name": "digital-business-card",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.0"
+  },
+  "description": "digital business card - React Section 1 Solo Project of the scrimba Learn react for free course (my first try with react.js)",
+  "main": "vite.config.js",
+  "keywords": [
+    "react",
+    "react.js",
+    "static-site",
+    "digital-business-card",
+    "business-card"
+  ],
+  "author": "hacen barboucha",
+  "license": "ISC"
+}
